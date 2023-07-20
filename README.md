@@ -72,7 +72,15 @@ This document contains a simplified list of concepts to guide new developers thr
     - [Func<>](https://learn.microsoft.com/en-us/dotnet/api/system.func-2?view=net-7.0)
     - [Action<>](https://learn.microsoft.com/it-it/dotnet/api/system.action-1?view=net-7.0)
     - [Predicate<>](https://learn.microsoft.com/it-it/dotnet/api/system.predicate-1?view=net-7.0)
-   
+
+Still missing:
+
+* Data access ([course on Pluralsight](https://app.pluralsight.com/library/courses/c-sharp-10-data-access-fundamentals/table-of-contents))
+* Unit testing ([course on PluralSight](https://app.pluralsight.com/library/courses/c-sharp-10-unit-testing/table-of-contents))
+* Secure coding with OWASP ([course on PluralSight](https://app.pluralsight.com/library/courses/c-sharp-10-owasp-secure-coding/table-of-contents))
+* Performance ([course on PluralSight](https://app.pluralsight.com/library/courses/c-sharp-10-performance-playbook/table-of-contents))
+* Source generators ([course on PluralSight](https://app.pluralsight.com/library/courses/c-sharp-10-developing-source-generators/table-of-contents))
+
 ## .NET
 
 - [Introduction](https://learn.microsoft.com/en-us/dotnet/core/introduction)
