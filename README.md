@@ -114,6 +114,7 @@ This document contains a simplified list of concepts to guide new developers thr
 - Advanced Topics
   - [Threads](https://learn.microsoft.com/en-us/dotnet/standard/threading/managed-threading-basics)
   - [Memory management and resource cleanup](https://learn.microsoft.com/en-us/dotnet/standard/garbage-collection/unmanaged)
+    - Heap vs Stack: part [1](https://www.c-sharpcorner.com/article/C-Sharp-heaping-vs-stacking-in-net-part-i)-[2](https://www.c-sharpcorner.com/article/C-Sharp-heaping-vs-stacking-in-net-part-ii)-[3](https://www.c-sharpcorner.com/article/C-Sharp-heaping-vs-stacking-in-net-part-iii)-[4](https://www.c-sharpcorner.com/article/C-Sharp-heaping-vs-stacking-in-net-part-iv)
 
 ## Going on ...
 
