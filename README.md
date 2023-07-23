@@ -43,15 +43,12 @@ This document contains a simplified list of concepts to guide new developers thr
 - Intermediate
   - [Enums](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/enum)
   - [Object and Collection initializers](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/object-and-collection-initializers)
-  - [Lambdas](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/lambda-expressions)
-    - ["=>" Operator](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/lambda-operator)
-    - [Arrow Functions](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/lambda-expressions)
-  - [Asynchronous Programming](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/)
-    - [Tasks](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/)
+  - [Asynchronous Programming](https://learn.microsoft.com/en-us/dotnet/csharp/asynchronous-programming/)
+    - [Asynchronous programming scenarios](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/)
     - [Async](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/async)
     - [Await](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/await)
+    - [Tasks](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/)
   - [Exception Handling](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/exceptions/exception-handling)
-  - [Linq](https://docs.microsoft.com/en-us/dotnet/csharp/linq/)
   - [Generics](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/types/generics)
   - Immutability
     - [Readonly](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/readonly)
@@ -64,14 +61,19 @@ This document contains a simplified list of concepts to guide new developers thr
   - [Overflow](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/statements/checked-and-unchecked)
 - Advanced
   - [Extension Methods](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/extension-methods)
-  - [Expression Trees](https://learn.microsoft.com/en-us/dotnet/csharp/advanced-topics/expression-trees/)
+  - Delegates, Lambdas, expression trees
+    - [Delegates](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/delegates/)
+      - [Func<>](https://learn.microsoft.com/en-us/dotnet/api/system.func-2?view=net-7.0)
+      - [Action<>](https://learn.microsoft.com/it-it/dotnet/api/system.action-1?view=net-7.0)
+      - [Predicate<>](https://learn.microsoft.com/it-it/dotnet/api/system.predicate-1?view=net-7.0)
+    - [Lambdas](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/lambda-expressions)
+      - ["=>" Operator](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/lambda-operator)
+      - [Arrow Functions](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/lambda-expressions)
+    - [Expression Trees](https://learn.microsoft.com/en-us/dotnet/csharp/advanced-topics/expression-trees/)
+  - [Events](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/events/)
+  - [Linq](https://docs.microsoft.com/en-us/dotnet/csharp/linq/)
   - [Reflection](https://learn.microsoft.com/en-us/dotnet/csharp/advanced-topics/reflection-and-attributes/)
   - [Nested Types](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/nested-types)
-  - [Events](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/events/)
-  - [Delegates](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/delegates/)
-    - [Func<>](https://learn.microsoft.com/en-us/dotnet/api/system.func-2?view=net-7.0)
-    - [Action<>](https://learn.microsoft.com/it-it/dotnet/api/system.action-1?view=net-7.0)
-    - [Predicate<>](https://learn.microsoft.com/it-it/dotnet/api/system.predicate-1?view=net-7.0)
 
 Still missing:
 
