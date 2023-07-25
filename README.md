@@ -59,7 +59,7 @@ This document contains a simplified list of concepts to guide new developers thr
   - [ ] [Randomness](https://learn.microsoft.com/en-us/dotnet/api/system.random?view=net-7.0)
   - [ ] [Casting](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/types/casting-and-type-conversions)
   - [ ] [Overflow](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/statements/checked-and-unchecked)
--  [ ]Advanced
+- [ ] Advanced
   - [ ] [Extension Methods](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/extension-methods)
   - [ ] Delegates, Lambdas, expression trees
     - [ ] [Delegates](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/delegates/)
