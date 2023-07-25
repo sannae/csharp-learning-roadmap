@@ -53,7 +53,7 @@ This document contains a simplified list of concepts to guide new developers thr
   - Immutability
     - [Readonly](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/readonly)
     - [Const](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/const)
-  - [Static](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/static)
+  - ~~[Static](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/static)~~
   - [Tuples](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/value-tuples)
   - [Nullability](https://learn.microsoft.com/en-us/dotnet/csharp/nullable-references)
   - [Randomness](https://learn.microsoft.com/en-us/dotnet/api/system.random?view=net-7.0)
