@@ -4,6 +4,8 @@ This document contains a simplified list of concepts to guide new developers thr
 
 ## C#
 
+<img title="c-sharp" alt="c-sharp" src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/csharp@0.0.0/csharp_256x256.png" width=80px>
+
 - ~~Learn the Fundamentals~~
   - ~~[Basic Syntax](https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/tutorials/hello-world)~~
   - ~~[Variables](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/language-specification/variables) and [Data Types](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/built-in-types)~~
@@ -85,6 +87,8 @@ Still missing:
 
 ## .NET
 
+<img title="c-sharp" alt="c-sharp" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_.NET_logo.png" width=80px>
+
 - [Introduction](https://learn.microsoft.com/en-us/dotnet/core/introduction)
   - [.NET Languages](https://learn.microsoft.com/en-us/dotnet/fundamentals/languages)
   - [.NET Implementations](https://learn.microsoft.com/en-us/dotnet/fundamentals/implementations)
@@ -130,4 +134,4 @@ Still missing:
 
 Continue on @Elfocrash's [.NET Backend Developer roadmap](https://github.com/Elfocrash/.NET-Backend-Developer-Roadmap)
 
-
+<img title="c-sharp" alt="c-sharp" src="https://ardalis.com/static/2bcf8d1ec45106e529bb3a6176467a31/c5cb2/aspnetcore-logo.png" width=80px>
