@@ -129,6 +129,11 @@ Still missing:
   - [Memory management and resource cleanup](https://learn.microsoft.com/en-us/dotnet/standard/garbage-collection/unmanaged)
     - Heap vs Stack: part [1](https://www.c-sharpcorner.com/article/C-Sharp-heaping-vs-stacking-in-net-part-i)-[2](https://www.c-sharpcorner.com/article/C-Sharp-heaping-vs-stacking-in-net-part-ii)-[3](https://www.c-sharpcorner.com/article/C-Sharp-heaping-vs-stacking-in-net-part-iii)-[4](https://www.c-sharpcorner.com/article/C-Sharp-heaping-vs-stacking-in-net-part-iv)
 
+## Design patterns and SOLID
+
+- [SOLID](https://learn.microsoft.com/en-us/archive/msdn-magazine/2014/may/csharp-best-practices-dangers-of-violating-solid-principles-in-csharp)
+- [Design patterns](https://refactoring.guru/design-patterns/csharp)
+
 ## Going on ...
 
 Continue on @Elfocrash's [.NET Backend Developer roadmap](https://github.com/Elfocrash/.NET-Backend-Developer-Roadmap)
