@@ -51,7 +51,7 @@ This document contains a simplified list of concepts to guide new developers thr
     - [Await](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/await)
     - [Tasks](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/)
   - ~~[Exception Handling](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/exceptions/exception-handling)~~
-  - [Generics](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/types/generics)
+  - ~~[Generics](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/types/generics)~~
   - ~~Immutability~~
     - ~~[Readonly](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/readonly)~~
     - ~~[Const](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/const)~~
@@ -59,7 +59,7 @@ This document contains a simplified list of concepts to guide new developers thr
   - ~~[Tuples](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/value-tuples)~~
   - [Nullability](https://learn.microsoft.com/en-us/dotnet/csharp/nullable-references)
   - [Casting](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/types/casting-and-type-conversions)
-  - [Overflow](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/statements/checked-and-unchecked)
+  - ~~[Overflow](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/statements/checked-and-unchecked)~~
 - Advanced
   - [Extension Methods](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/extension-methods)
   - Delegates, Lambdas, expression trees
