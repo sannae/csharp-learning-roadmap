@@ -45,11 +45,11 @@ This document contains a simplified list of concepts to guide new developers thr
 - Intermediate
   - ~~[Enums](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/enum)~~
   - [Object and Collection initializers](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/object-and-collection-initializers)
-  - [Asynchronous Programming](https://learn.microsoft.com/en-us/dotnet/csharp/asynchronous-programming/)
-    - [Asynchronous programming scenarios](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/)
-    - [Async](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/async)
-    - [Await](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/await)
-    - [Tasks](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/)
+  - ~~[Asynchronous Programming](https://learn.microsoft.com/en-us/dotnet/csharp/asynchronous-programming/)~~
+    - ~~[Asynchronous programming scenarios](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/)~~
+    - ~~[Async](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/async)~~
+    - ~~[Await](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/await)~~
+    - ~~[Tasks](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/)~~
   - ~~[Exception Handling](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/exceptions/exception-handling)~~
   - ~~[Generics](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/types/generics)~~
   - ~~Immutability~~
