@@ -44,7 +44,7 @@ This document contains a simplified list of concepts to guide new developers thr
     - ~~[Protected](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/protected)~~
 - Intermediate
   - ~~[Enums](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/enum)~~
-  - [Object and Collection initializers](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/object-and-collection-initializers)
+  - ~~[Object and Collection initializers](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/object-and-collection-initializers)~~
   - ~~[Asynchronous Programming](https://learn.microsoft.com/en-us/dotnet/csharp/asynchronous-programming/)~~
     - ~~[Asynchronous programming scenarios](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/)~~
     - ~~[Async](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/async)~~
