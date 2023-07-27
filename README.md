@@ -135,6 +135,19 @@ Still missing:
   - [Microsoft Docs](https://learn.microsoft.com/en-us/archive/msdn-magazine/2014/may/csharp-best-practices-dangers-of-violating-solid-principles-in-csharp)
   - [Educative.io](https://www.educative.io/blog/solid-principles-oop-c-sharp)
 - [Design patterns](https://refactoring.guru/design-patterns/csharp)
+  - Creational patterns
+    - [Singleton](https://refactoring.guru/design-patterns/singleton) - also [here](https://www.c-sharpcorner.com/UploadFile/dacca2/design-pattern-for-beginner-part-1-singleton-design-patt/)
+    - [Factory](https://refactoring.guru/design-patterns/factory-method) - also [here](https://www.c-sharpcorner.com/UploadFile/dacca2/design-pattern-for-beginner-part-2-factory-design-pattern/)
+    - [Prototype](https://refactoring.guru/design-patterns/prototype) - also [here](https://www.c-sharpcorner.com/UploadFile/dacca2/design-pattern-for-beginner-part-3-prototype-design-patter/)
+  - Structural patterns
+    - [Decorator](https://refactoring.guru/design-patterns/decorator) - also [here](https://www.c-sharpcorner.com/UploadFile/dacca2/design-pattern-for-beginners-part-4-decorator-design-patt/)
+    - [Composite](https://refactoring.guru/design-patterns/composite) - also [here](https://www.c-sharpcorner.com/UploadFile/dacca2/design-pattern-for-beginner-part-5-composite-design-patter/)
+    - [Adapter](https://refactoring.guru/design-patterns/adapter) - also [here](https://www.c-sharpcorner.com/UploadFile/dacca2/design-pattern-for-beginners-part-6-adaptor-design-patter/)
+    - [Bridge](https://refactoring.guru/design-patterns/bridge) - also [here](https://www.c-sharpcorner.com/UploadFile/dacca2/design-pattern-for-beginner-bridge-design-pattern/)
+  - Behavioral patterns
+    - [Memento](https://refactoring.guru/design-patterns/memento) - also [here](https://www.c-sharpcorner.com/UploadFile/dacca2/design-pattern-for-beginner-part-8-memento-design-patter/)
+    - [Strategy](https://refactoring.guru/design-patterns/strategy) - also [here](https://www.c-sharpcorner.com/UploadFile/dacca2/design-pattern-for-beginner-part-9-strategy-design-pattern/)
+    - [Observer](https://refactoring.guru/design-patterns/observer) - also [here](https://www.c-sharpcorner.com/UploadFile/dacca2/design-pattern-for-beginner-part-10-observer-design-patter/)
 
 ## Going on ...
 
