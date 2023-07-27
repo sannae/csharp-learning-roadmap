@@ -60,7 +60,7 @@ This document contains a simplified list of concepts to guide new developers thr
   - [Nullability](https://learn.microsoft.com/en-us/dotnet/csharp/nullable-references)
   - ~~[Casting](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/types/casting-and-type-conversions)~~
   - ~~[Overflow](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/statements/checked-and-unchecked)~~
-- Advanced
+- Advanced ([Advanced C# course](https://www.youtube.com/watch?v=YT8s-90oDC0) on FreeCodeCamp's YouTube channel)
   - [Extension Methods](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/extension-methods)
   - Delegates, Lambdas, expression trees
     - [Delegates](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/delegates/)
