@@ -131,7 +131,9 @@ Still missing:
 
 ## Design patterns and SOLID
 
-- [SOLID](https://learn.microsoft.com/en-us/archive/msdn-magazine/2014/may/csharp-best-practices-dangers-of-violating-solid-principles-in-csharp)
+- SOLID
+  - [Microsoft Docs](https://learn.microsoft.com/en-us/archive/msdn-magazine/2014/may/csharp-best-practices-dangers-of-violating-solid-principles-in-csharp)
+  - [Educative.io](https://www.educative.io/blog/solid-principles-oop-c-sharp)
 - [Design patterns](https://refactoring.guru/design-patterns/csharp)
 
 ## Going on ...
