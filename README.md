@@ -58,6 +58,7 @@ This document contains a simplified list of concepts to guide new developers thr
   - ~~[Static](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/static)~~
   - ~~[Tuples](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/value-tuples)~~
   - [Nullability](https://learn.microsoft.com/en-us/dotnet/csharp/nullable-references)
+    - [tutorial](https://learn.microsoft.com/en-us/dotnet/csharp/tutorials/nullable-reference-types)
   - ~~[Casting](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/types/casting-and-type-conversions)~~
   - ~~[Overflow](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/statements/checked-and-unchecked)~~
   - ~~[Discards](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/functional/discards)~~
