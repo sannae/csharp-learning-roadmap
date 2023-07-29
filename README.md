@@ -81,6 +81,7 @@ This document contains a simplified list of concepts to guide new developers thr
 Still missing:
 
 * Data access ([course on Pluralsight](https://app.pluralsight.com/library/courses/c-sharp-10-data-access-fundamentals/table-of-contents))
+* Class libraries ([course on PluralSight](https://app.pluralsight.com/library/courses/40fb6e08-6fe1-4f65-b1e6-8b60e617f649))
 * Unit testing ([course on PluralSight](https://app.pluralsight.com/library/courses/c-sharp-10-unit-testing/table-of-contents))
 * Secure coding with OWASP ([course on PluralSight](https://app.pluralsight.com/library/courses/c-sharp-10-owasp-secure-coding/table-of-contents))
 * Performance ([course on PluralSight](https://app.pluralsight.com/library/courses/c-sharp-10-performance-playbook/table-of-contents))
