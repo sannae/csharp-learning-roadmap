@@ -2,7 +2,10 @@
 
 This document contains a simplified list of concepts to guide new developers through learning the basics of the C# programming language, and a brief introduction to the .NET ecosystem.
 
+<details>
+  <summary>
 ## C#
+  </summary>
 
 <img title="c-sharp" alt="c-sharp" src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/csharp@0.0.0/csharp_256x256.png" width=80px>
 
@@ -86,6 +89,8 @@ Still missing:
 * Secure coding with OWASP ([course on PluralSight](https://app.pluralsight.com/library/courses/c-sharp-10-owasp-secure-coding/table-of-contents))
 * Performance ([course on PluralSight](https://app.pluralsight.com/library/courses/c-sharp-10-performance-playbook/table-of-contents))
 * Source generators ([course on PluralSight](https://app.pluralsight.com/library/courses/c-sharp-10-developing-source-generators/table-of-contents))
+
+</details>
 
 ## .NET
 
