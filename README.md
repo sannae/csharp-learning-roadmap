@@ -78,7 +78,7 @@ This document contains a simplified list of concepts to guide new developers thr
 </details>
 
 - Advanced ([Advanced C# course](https://www.youtube.com/watch?v=YT8s-90oDC0) on FreeCodeCamp's YouTube channel)
-  - [Extension Methods](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/extension-methods)
+  - ~~[Extension Methods](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/extension-methods)~~
   - Delegates, Lambdas, expression trees
     - [Delegates](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/delegates/)
       - [Func<>](https://learn.microsoft.com/en-us/dotnet/api/system.func-2?view=net-7.0)
