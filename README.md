@@ -29,6 +29,9 @@ This document contains a simplified list of concepts to guide new developers thr
   - ~~[String Interpolation](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/tokens/interpolated)~~
 </details>
 
+<details>
+<summary>Object-Oriente Programming</summary>
+
 - ~~Object-Oriented Programming~~
   - ~~Three Pillars~~
     - ~~[Encapsulation](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/object-oriented/)~~
@@ -47,7 +50,12 @@ This document contains a simplified list of concepts to guide new developers thr
     - ~~[Private](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/private)~~
     - ~~[Internal](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/internal)~~
     - ~~[Protected](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/protected)~~
-- Intermediate
+</details>
+
+<details>
+<summary>Intermediate</summary>
+
+- ~~Intermediate~~
   - ~~[Enums](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/enum)~~
   - ~~[Object and Collection initializers](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/object-and-collection-initializers)~~
   - ~~[Asynchronous Programming](https://learn.microsoft.com/en-us/dotnet/csharp/asynchronous-programming/)~~
@@ -62,11 +70,13 @@ This document contains a simplified list of concepts to guide new developers thr
     - ~~[Const](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/const)~~
   - ~~[Static](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/static)~~
   - ~~[Tuples](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/value-tuples)~~
-  - [Nullability](https://learn.microsoft.com/en-us/dotnet/csharp/nullable-references)
+  - ~~[Nullability](https://learn.microsoft.com/en-us/dotnet/csharp/nullable-references)~~
     - [tutorial](https://learn.microsoft.com/en-us/dotnet/csharp/tutorials/nullable-reference-types)
   - ~~[Casting](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/types/casting-and-type-conversions)~~
   - ~~[Overflow](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/statements/checked-and-unchecked)~~
   - ~~[Discards](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/functional/discards)~~
+</details>
+
 - Advanced ([Advanced C# course](https://www.youtube.com/watch?v=YT8s-90oDC0) on FreeCodeCamp's YouTube channel)
   - [Extension Methods](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/extension-methods)
   - Delegates, Lambdas, expression trees
