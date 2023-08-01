@@ -91,7 +91,7 @@ This document contains a simplified list of concepts to guide new developers thr
   - [Events](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/events/)
   - [Linq](https://docs.microsoft.com/en-us/dotnet/csharp/linq/)
   - [Reflection](https://learn.microsoft.com/en-us/dotnet/csharp/advanced-topics/reflection-and-attributes/)
-  - [Nested Types](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/nested-types)
+  - ~~[Nested Types](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/nested-types)~~
 
 Still missing:
 
