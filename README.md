@@ -172,3 +172,7 @@ Still missing:
 Continue on @Elfocrash's [.NET Backend Developer roadmap](https://github.com/Elfocrash/.NET-Backend-Developer-Roadmap)
 
 <img title="c-sharp" alt="c-sharp" src="https://ardalis.com/static/2bcf8d1ec45106e529bb3a6176467a31/c5cb2/aspnetcore-logo.png" width=80px>
+
+Resources:
+
+* Entity Framework Core: [Quick intro](https://www.youtube.com/watch?v=ugD2jTrfYOM&list=PLSaC38UUAW8StulproK1zUn70CvOhZ1Kw) 
