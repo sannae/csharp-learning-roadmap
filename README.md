@@ -145,6 +145,7 @@ Still missing:
 - Advanced Topics
   - [Threads](https://learn.microsoft.com/en-us/dotnet/standard/threading/managed-threading-basics)
     - [lock](https://learn.microsoft.com/vi-vn/dotnet/csharp/language-reference/statements/lock)
+       - [Exercism exercise](https://exercism.org/tracks/csharp/exercises/bank-account/dig_deeper)
   - [Memory management and resource cleanup](https://learn.microsoft.com/en-us/dotnet/standard/garbage-collection/unmanaged)
     - Heap vs Stack: part [1](https://www.c-sharpcorner.com/article/C-Sharp-heaping-vs-stacking-in-net-part-i)-[2](https://www.c-sharpcorner.com/article/C-Sharp-heaping-vs-stacking-in-net-part-ii)-[3](https://www.c-sharpcorner.com/article/C-Sharp-heaping-vs-stacking-in-net-part-iii)-[4](https://www.c-sharpcorner.com/article/C-Sharp-heaping-vs-stacking-in-net-part-iv)
 
