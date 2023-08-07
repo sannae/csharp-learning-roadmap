@@ -177,4 +177,5 @@ Continue on @Elfocrash's [.NET Backend Developer roadmap](https://github.com/Elf
 
 Resources:
 
-* Entity Framework Core: [Quick intro](https://www.youtube.com/watch?v=ugD2jTrfYOM&list=PLSaC38UUAW8StulproK1zUn70CvOhZ1Kw) 
+* Entity Framework Core: [Quick intro](https://www.youtube.com/watch?v=ugD2jTrfYOM&list=PLSaC38UUAW8StulproK1zUn70CvOhZ1Kw)
+* Software Architecture: [Course](https://dometrain.com/course/getting-started-solution-architecture/)
