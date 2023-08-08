@@ -30,7 +30,7 @@ This document contains a simplified list of concepts to guide new developers thr
 </details>
 
 <details>
-<summary>Object-Oriente Programming</summary>
+<summary>Object-Oriented Programming</summary>
 
 - ~~Object-Oriented Programming~~
   - ~~Three Pillars~~
