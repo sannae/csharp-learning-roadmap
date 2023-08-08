@@ -84,9 +84,9 @@ This document contains a simplified list of concepts to guide new developers thr
       - ~~[Func<>](https://learn.microsoft.com/en-us/dotnet/api/system.func-2?view=net-7.0)~~
       - ~~[Action<>](https://learn.microsoft.com/it-it/dotnet/api/system.action-1?view=net-7.0)~~
       - ~~[Predicate<>](https://learn.microsoft.com/it-it/dotnet/api/system.predicate-1?view=net-7.0)~~
-    - [Lambdas](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/lambda-expressions)
-      - ["=>" Operator](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/lambda-operator)
-      - [Arrow Functions](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/lambda-expressions)
+    - ~~[Lambdas](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/lambda-expressions)~~
+      - ~~["=>" Operator](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/lambda-operator)~~
+      - ~~[Arrow Functions](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/lambda-expressions)~~
     - [Expression Trees](https://learn.microsoft.com/en-us/dotnet/csharp/advanced-topics/expression-trees/)
   - [Events](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/events/)
   - [Linq](https://docs.microsoft.com/en-us/dotnet/csharp/linq/)
