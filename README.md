@@ -93,6 +93,10 @@ This document contains a simplified list of concepts to guide new developers thr
   - [Reflection](https://learn.microsoft.com/en-us/dotnet/csharp/advanced-topics/reflection-and-attributes/)
   - ~~[Nested Types](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/nested-types)~~
 
+Tests:
+
+* [TutorialsTeacher](https://www.tutorialsteacher.com/online-test/csharp-test)
+
 Still missing:
 
 * Data access ([course on Pluralsight](https://app.pluralsight.com/library/courses/c-sharp-10-data-access-fundamentals/table-of-contents))
