@@ -88,7 +88,7 @@ This document contains a simplified list of concepts to guide new developers thr
       - ~~["=>" Operator](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/lambda-operator)~~
       - ~~[Arrow Functions](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/lambda-expressions)~~
     - [Expression Trees](https://learn.microsoft.com/en-us/dotnet/csharp/advanced-topics/expression-trees/)
-  - [Events](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/events/)
+  - ~~[Events](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/events/)~~
   - [Linq](https://docs.microsoft.com/en-us/dotnet/csharp/linq/)
   - [Reflection](https://learn.microsoft.com/en-us/dotnet/csharp/advanced-topics/reflection-and-attributes/)
   - ~~[Nested Types](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/nested-types)~~
