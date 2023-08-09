@@ -178,6 +178,8 @@ Still missing:
 
 Continue on @Elfocrash's [.NET Backend Developer roadmap](https://github.com/Elfocrash/.NET-Backend-Developer-Roadmap)
 
+Complete with [roadmap.sh/aspnet-core](https://roadmap.sh/aspnet-core)
+
 <img title="c-sharp" alt="c-sharp" src="https://ardalis.com/static/2bcf8d1ec45106e529bb3a6176467a31/c5cb2/aspnetcore-logo.png" width=80px>
 
 Resources:
