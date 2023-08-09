@@ -6,8 +6,6 @@ This document contains a simplified list of concepts to guide new developers thr
 
 <img title="c-sharp" alt="c-sharp" src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/csharp@0.0.0/csharp_256x256.png" width=80px>
 
-Resources: [.NET Academy](https://dotnetcademy.net/)
-
 <details>
 <summary>Fundamentals</summary>
 
