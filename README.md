@@ -96,6 +96,7 @@ This document contains a simplified list of concepts to guide new developers thr
 Tests:
 
 * [TutorialsTeacher](https://www.tutorialsteacher.com/online-test/csharp-test)
+* [CsharpTips](http://csharp.tips/quiz/tests)
 
 Still missing:
 
