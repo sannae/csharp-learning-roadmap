@@ -93,6 +93,11 @@ This document contains a simplified list of concepts to guide new developers thr
   - [Reflection](https://learn.microsoft.com/en-us/dotnet/csharp/advanced-topics/reflection-and-attributes/)
   - ~~[Nested Types](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/nested-types)~~
 
+Exercises:
+
+* [C# programming challenges](https://youtube.com/playlist?list=PLvQSG8B7sh6n0Xeuoe_SJf7RNmeI4Mfay&si=fLxrg1Dd-_69OOJQ)
+
+
 Tests:
 
 * [TutorialsTeacher](https://www.tutorialsteacher.com/online-test/csharp-test)
