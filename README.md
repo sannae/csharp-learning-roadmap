@@ -95,8 +95,7 @@ This document contains a simplified list of concepts to guide new developers thr
 
 Exercises:
 
-* [C# programming challenges](https://youtube.com/playlist?list=PLvQSG8B7sh6n0Xeuoe_SJf7RNmeI4Mfay&si=fLxrg1Dd-_69OOJQ)
-
+* [C# programming challenges](https://youtube.com/playlist?list=PLvQSG8B7sh6n0Xeuoe_SJf7RNmeI4Mfay&si=fLxrg1Dd-_69OOJQ), based on the book by Paul Deite [C# for programmers](http://www.cherrycreekeducation.com/bbk/b/Prentice_Hall_Csharp_6_for_Programmers_6th_Edition_0134596323.pdf)
 
 Tests:
 
