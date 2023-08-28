@@ -96,7 +96,7 @@ This document contains a simplified list of concepts to guide new developers thr
 Exercises:
 
 * [C# programming challenges](https://youtube.com/playlist?list=PLvQSG8B7sh6n0Xeuoe_SJf7RNmeI4Mfay&si=fLxrg1Dd-_69OOJQ), based on the book by Paul Deite [C# for programmers](http://www.cherrycreekeducation.com/bbk/b/Prentice_Hall_Csharp_6_for_Programmers_6th_Edition_0134596323.pdf)
-
+* [Fundamentals of Programming with C#](https://www.introprogramming.info/wp-content/uploads/2013/07/Books/CSharpEn/Fundamentals-of-Computer-Programming-with-CSharp-Nakov-eBook-v2013.pdf) book
 Tests:
 
 * [TutorialsTeacher](https://www.tutorialsteacher.com/online-test/csharp-test)
